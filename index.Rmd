@@ -1,0 +1,12 @@
+---
+title: "Tax Data"
+---
+
+```{r, include= FALSE}
+source("r_code.R")
+
+```
+
+```{r}
+summary(year_data)
+```

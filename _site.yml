@@ -1,0 +1,24 @@
+name: "Group 8"
+output_dir: "html"
+
+navbar:
+  title: "Tax Forecasting for"
+  type: inverse
+  left:
+    - text: "Tax Data"
+      icon: fa-line-chart
+      href: index.html
+    - text: "Forecast"
+      icon: fa-area-chart
+      href: about.html
+  right:
+    - text: "Instagram"
+      icon: fa-instagram
+      href: https://www.instagram.com/hayrab
+
+      
+output:
+  html_document:
+
+    theme: united
+    css: src/style.css

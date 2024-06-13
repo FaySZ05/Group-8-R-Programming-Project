@@ -1,0 +1,13 @@
+---
+title: "Tax Forecast"
+---
+
+```{r, include = FALSE} 
+source("r_code.R")
+```
+```{r, echo=FALSE, fig.align="center" }
+print(plot1)
+print(plot2)
+print(plot3)
+print(plot4)
+```
